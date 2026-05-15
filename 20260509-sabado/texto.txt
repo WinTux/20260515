@@ -1,0 +1,23 @@
+La seguridad informática constituye un elemento esencial en la protección de la información digital.
+
+Actualmente existen múltiples amenazas:
+
+- Malware
+- Phishing
+- Ransomware
+- Ingeniería social
+- Ataques DDoS
+- Robo de credenciales
+
+Las organizaciones implementan controles de seguridad para minimizar riesgos y proteger sus activos digitales.
+
+Entre los mecanismos más importantes se encuentran:
+
+- Firewalls
+- Sistemas IDS/IPS
+- Antivirus
+- Cifrado de datos
+- Autenticación multifactor
+- Monitoreo continuo
+
+La minería de textos puede ayudar a detectar patrones sospechosos en reportes de seguridad y mensajes electrónicos.

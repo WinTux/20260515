@@ -1,0 +1,36 @@
+La inteligencia artificial y el aprendizaje automático han revolucionado el procesamiento de información.
+
+Los sistemas modernos pueden analizar millones de documentos en pocos segundos.
+
+La minería de textos permite transformar información no estructurada en conocimiento útil.
+
+Las empresas utilizan análisis textual para:
+
+- Detectar fraudes
+- Analizar opiniones de clientes
+- Monitorear redes sociales
+- Mejorar motores de búsqueda
+- Identificar amenazas cibernéticas
+- Automatizar procesos documentales
+
+En el ámbito universitario, estas tecnologías son aplicadas en:
+
+- Bibliotecas digitales
+- Sistemas de recomendación
+- Análisis de artículos científicos
+- Detección de plagio
+- Gestión académica
+- Investigación científica
+
+El procesamiento del lenguaje natural combina lingüística computacional, inteligencia artificial y estadística.
+
+Python es uno de los lenguajes más utilizados para minería de textos debido a bibliotecas como:
+
+- NLTK
+- spaCy
+- Scikit-learn
+- Gensim
+- Transformers
+- Pandas
+
+La ciberseguridad también se beneficia de estas técnicas mediante el análisis automatizado de logs, correos sospechosos y reportes de incidentes.

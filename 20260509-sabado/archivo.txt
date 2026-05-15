@@ -1,0 +1,17 @@
+La minería de textos es una disciplina fundamental dentro de la ciencia de datos y el procesamiento del lenguaje natural.
+
+Actualmente, las organizaciones utilizan técnicas automatizadas para analizar grandes volúmenes de información textual provenientes de redes sociales, documentos académicos, sitios web, reportes empresariales y bases de datos.
+
+El procesamiento de texto permite identificar patrones, tendencias, relaciones semánticas y comportamientos relevantes.
+
+Entre las tareas más importantes se encuentran:
+- Tokenización
+- Eliminación de stopwords
+- Stemming
+- Lematización
+- Análisis de frecuencia
+- Clasificación de documentos
+- Extracción de entidades
+- Análisis de sentimientos
+
+La Universidad Pública de El Alto desarrolla investigaciones relacionadas con minería de textos aplicada a ciberseguridad, análisis documental y gestión de información académica.

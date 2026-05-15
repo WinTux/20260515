@@ -1,0 +1,16 @@
+# entorno virtual
+venv/
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# sistema
+.DS_Store
+Thumbs.db
+
+# archivos temporales
+*.tmp
